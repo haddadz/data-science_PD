@@ -1,4 +1,6 @@
-Whichever copy you choose to go with, please always support the author(s)!
+**Some of my favorite Data Science Textbooks for Personal Developement**
+
+*Whichever copy you choose to go with, please always support the author(s)!*
 
 1- R for Data Science
 
